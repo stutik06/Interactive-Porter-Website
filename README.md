@@ -21,8 +21,6 @@
 
 ![App Screenshot](https://github.com/dheerajbisht362/constructWeekPorterClone/blob/master/images/00013.JPG)
 
-![App Screenshot](./images/0009.jpg)
-
 ![App Screenshot](https://github.com/dheerajbisht362/constructWeekPorterClone/blob/master/images/00010.JPG)
 
 ![App Screenshot](https://github.com/dheerajbisht362/constructWeekPorterClone/blob/master/images/0004.JPG)
