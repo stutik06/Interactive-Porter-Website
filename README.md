@@ -26,8 +26,8 @@ Developed a **Porter-inspired logistics website** using **HTML, CSS, and JavaScr
 
 ![App Screenshot](https://github.com/dheerajbisht362/constructWeekPorterClone/blob/master/images/0004.JPG)
 
-
-A Special Thankyou to the original creators and to great guides:
+Learned a lot while making this interactive project.
+A Special Thankyou to the original creators and great guides:
 
 1. Dheeraj Bisht
    (https://github.com/dheerajbisht362)
