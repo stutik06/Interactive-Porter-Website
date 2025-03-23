@@ -1,6 +1,5 @@
 Developed a **Porter-inspired logistics website** using **HTML, CSS, and JavaScript**, replicating the functionality of an intracity transportation booking platform. The website offers a **user-friendly interface** with multiple features, including **fare estimation, vehicle selection, and order tracking**. Users can choose from various vehicle types such as **TATA Ace, TATA 407, 3-wheelers**, and more, with detailed pricing and capacity information displayed for each option. The platform includes an **interactive booking form**, allowing users to input pickup and drop-off locations, contact details, and select their transportation requirements. Additionally, the site features a **user wallet** section where users can view their balance, add money, and track transaction history with filters for date and status (open, accepted, live, completed). The **order management system** displays detailed records of vehicle types, drivers, and transaction amounts, enhancing the tracking experience. This project showcases my skills in **frontend development, form handling, and dynamic data display**, delivering a functional and visually appealing logistics solution.  
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/e/eb/Porter-logo.png)
 
 ![App Screenshot](https://github.com/dheerajbisht362/constructWeekPorterClone/blob/master/images/0001.JPG)
  
